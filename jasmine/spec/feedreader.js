@@ -55,7 +55,7 @@ $(function() {
         
         // test to see if there is at least a single element in the  feed
         it('loadFeed working', function(done) {
-            expect($('.feed').children().length > 0).toBe(true);
+            expect($('.feed .entry').length > 0).toBe(true);
             done();
         });
     });
