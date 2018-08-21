@@ -24,4 +24,4 @@ This projects uses Jasmin testing framework to test different functionalities of
 - [PROJECT SPECIFICATION](https://review.udacity.com/#!/rubrics/18/view)
 
 ## Demo
-    [FeedReader-app](http://my-feedreader.surge.sh/)
+[FeedReader](http://my-feedreader.surge.sh/)
